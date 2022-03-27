@@ -1,0 +1,3 @@
+[submodule "projects/hosto"]
+	path = projects/hosto
+	url = https://github.com/andresherrera17/hosto.git
